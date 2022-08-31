@@ -12,3 +12,4 @@
 11-lists : list of curent, parent and boot directories
 12-file_type: display file type
 13-symbolic_link: create the symbolic link
+14-copy_html: copy html files in the parent current directory si there are newer or missing
