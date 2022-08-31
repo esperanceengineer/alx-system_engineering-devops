@@ -11,3 +11,4 @@
 10-back: change the current directory to the previous one
 11-lists : list of curent, parent and boot directories
 12-file_type: display file type
+13-symbolic_link: create the symbolic link
