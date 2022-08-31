@@ -10,3 +10,4 @@
 9-firstdirdeletion: delete my_first_directory in/tmp
 10-back: change the current directory to the previous one
 11-lists : list of curent, parent and boot directories
+12-file_type: display file type
