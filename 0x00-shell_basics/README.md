@@ -6,3 +6,4 @@
 5-lsitfilesdigitonly : display all contents with digit
 6-firstdirectory: create the first directory
 7-movethafile: move the file from /tmp
+8-firstdelete: delete the file betty
