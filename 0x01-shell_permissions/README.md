@@ -5,3 +5,5 @@
 4-empty: create the empty file called hello
 5-execute: add the execute permission
 6-multiple_permissions: add several permissions
+7-everybody: set the permissions for everybody
+8-James_Bond: set all permissions for aothers
