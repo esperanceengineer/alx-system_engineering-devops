@@ -12,3 +12,7 @@
 11-directories_permisisons: add execute to all subdirectories
 12-directories_permissions: create the directory with set permissions
 13-change_group: change the group owner for the file
+100-change_owner_and_group; change owner nd group of the file
+101-symbolic_link_permissions: add the permissions for symbolic_link
+102-if_only: change the owner of the file if the current user matches
+103-Star_Wars: script that play star wars iv episode
