@@ -4,3 +4,4 @@
 3-new_owner: change the owner of the file
 4-empty: create the empty file called hello
 5-execute: add the execute permission
+6-multiple_permissions: add several permissions
