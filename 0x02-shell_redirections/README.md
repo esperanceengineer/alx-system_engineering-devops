@@ -2,3 +2,4 @@
 1-confused_smiley: display the confused_smiley
 3-hellofile: display the contents of /etc/passwd
 4-twofiles: prints the content of two files
+5-lastlines: display the last two lines
