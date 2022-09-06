@@ -3,3 +3,4 @@
 2-path: add the directory to the path
 3-paths: counts the number of diections in a path
 4-global_variables: display global variables environment
+5-local_variables: display the local variables envronment
