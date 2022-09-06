@@ -6,3 +6,5 @@
 5-local_variables: display the local variables envronment
 6-create_local_variable: create a local variable
 7-create_global_variable:create a global variable
+8-true_knowledge: prints the result of the addition
+8-divide_and _rule: prints the result of division
