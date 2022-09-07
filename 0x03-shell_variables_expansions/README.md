@@ -12,3 +12,4 @@
 11-binary_to_decimal: convert binary to decimal with shell
 12-combinations: prints the combinaisons of two letters without oo
 13-print_float: prints the float number
+100-decimal_to_hexadecimal: convert decimal to hexa
